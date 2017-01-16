@@ -1,0 +1,9 @@
+C:\Users\yinji\Source\Repos\C#-ScanPort\ScanPort\ScanPort\bin\Release\ScanPort.exe.config
+C:\Users\yinji\Source\Repos\C#-ScanPort\ScanPort\ScanPort\bin\Release\ScanPort.exe
+C:\Users\yinji\Source\Repos\C#-ScanPort\ScanPort\ScanPort\bin\Release\ScanPort.pdb
+C:\Users\yinji\Source\Repos\C#-ScanPort\ScanPort\ScanPort\obj\Release\ScanPort.Form1.resources
+C:\Users\yinji\Source\Repos\C#-ScanPort\ScanPort\ScanPort\obj\Release\ScanPort.Properties.Resources.resources
+C:\Users\yinji\Source\Repos\C#-ScanPort\ScanPort\ScanPort\obj\Release\ScanPort.csproj.GenerateResource.Cache
+C:\Users\yinji\Source\Repos\C#-ScanPort\ScanPort\ScanPort\obj\Release\ScanPort.exe
+C:\Users\yinji\Source\Repos\C#-ScanPort\ScanPort\ScanPort\obj\Release\ScanPort.pdb
+C:\Users\yinji\Source\Repos\C#-ScanPort\ScanPort\ScanPort\obj\Release\ScanPort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\yinji\OneDrive\项目\C#-ScanPort\ScanPort\bin\Debug\ScanPort.exe.config
