@@ -1,0 +1,9 @@
+C:\Users\yinji\Desktop\IP端口扫描\ScanDemo\bin\Debug\ScanDemo.exe
+C:\Users\yinji\Desktop\IP端口扫描\ScanDemo\bin\Debug\ScanDemo.pdb
+C:\Users\yinji\Desktop\IP端口扫描\ScanDemo\obj\x86\Debug\ScanDemo.csprojResolveAssemblyReference.cache
+C:\Users\yinji\Desktop\IP端口扫描\ScanDemo\obj\x86\Debug\ScanDemo.Form1.resources
+C:\Users\yinji\Desktop\IP端口扫描\ScanDemo\obj\x86\Debug\ScanDemo.Form2.resources
+C:\Users\yinji\Desktop\IP端口扫描\ScanDemo\obj\x86\Debug\ScanDemo.Properties.Resources.resources
+C:\Users\yinji\Desktop\IP端口扫描\ScanDemo\obj\x86\Debug\ScanDemo.csproj.GenerateResource.Cache
+C:\Users\yinji\Desktop\IP端口扫描\ScanDemo\obj\x86\Debug\ScanDemo.exe
+C:\Users\yinji\Desktop\IP端口扫描\ScanDemo\obj\x86\Debug\ScanDemo.pdb
