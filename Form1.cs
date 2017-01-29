@@ -32,7 +32,8 @@ namespace ScanPort
             fThread = new Thread(new ThreadStart(runs));
 
             fThread.Start();
-
+        //{
+        //}
 
            
         }
